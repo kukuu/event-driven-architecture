@@ -1,4 +1,4 @@
-# Event-riven architecture
+# Event Driven Architecture
 
 **Types of Architecture:**
 
