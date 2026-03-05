@@ -4,7 +4,11 @@
 
 **Types of Architecture:**
 
-Examples of  event-driven architectures and platforms include **Apache Kafka**, **RabbitMQ**, **Amazon SNS/SQS**, **Google Pub/Sub**, **Azure Event Grid**, **Apache Pulsar**, **ActiveMQ**, **NATS**, **Redis Pub/Sub**, and **AWS Kinesis**, as well as event-driven frameworks like **Spring Cloud Stream**, **Akka**, and **Vert.x**.
+Examples of  event-driven architectures and platforms include:
+- **Apache Kafka**
+- **RabbitMQ**,
+- **Amazon SNS/SQS**,
+- **Google Pub/Sub**, **Azure Event Grid**, **Apache Pulsar**, **ActiveMQ**, **NATS**, **Redis Pub/Sub**, and **AWS Kinesis**, as well as event-driven frameworks like **Spring Cloud Stream**, **Akka**, and **Vert.x**.
 
 **Benefits**:
 
@@ -15,3 +19,10 @@ Event-driven architecture enables:
 - Decoupled components that can evolve independently
 - Fault tolerance through event persistence and replay
 - Multiple consumers of the same event streams
+
+## Systems Design Architecture 
+- Design for Failure
+- Loose Coupling
+- Self Healing
+- Multiple Avalability Zones
+- Scalability
