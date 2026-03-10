@@ -4,21 +4,21 @@
 
 ## Types of Architecture :
 
-- **Apache Kafka**
-- **RabbitMQ**,
-- **Amazon SNS/SQS**,
-- **Google Pub/Sub**
-- **Azure Event Grid**
-- **Apache Pulsar**
-- **ActiveMQ**
-- **NATS**,
-- **Redis Pub/Sub**
-- **AWS Kinesis**
+- Apache Kafka
+- RabbitMQ
+- Amazon SNS/SQS
+- Google Pub/Sub
+- Azure Event Grid
+- Apache Pulsar
+- ActiveMQ
+- NATS
+- Redis Pub/Sub
+- AWS Kinesis
 
 ## Event-driven frameworks: 
-- **Spring Cloud Stream**
-- **Akka**
-- **Vert.x**.
+- Spring Cloud Stream
+- Akka
+- Vert.x*
 
 **Benefits**:
 
