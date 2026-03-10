@@ -37,6 +37,11 @@ Event-driven architecture enables:
 - Multiple Avalability Zones
 - Scalability
 
+
+## Principles of Software Design
+
+<img width="1055" height="514" alt="image" src="https://github.com/user-attachments/assets/ddc171fb-22a4-4e57-a95e-b5b0db24b0d0" />
+
 ## Software Integration Tasks:
 
 https://github.com/kukuu/integration/blob/main/README.md
