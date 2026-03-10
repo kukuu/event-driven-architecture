@@ -50,6 +50,12 @@ https://github.com/kukuu/integration/blob/main/README.md
 
 - Implementation: https://github.com/kukuu/integration/blob/main/1-microservice-architecture.png
 - Architecture : https://github.com/kukuu/integration/blob/main/1-microservice-architecture.png
+
+## Infrastructure as Code (Iac)
+
+
+<img width="1406" height="474" alt="image" src="https://github.com/user-attachments/assets/9dcd86c7-f530-4b21-8bf9-7cb3dd65d5b4" />
+
 ## Systems
 - Systems Design - https://github.com/kukuu/systems-design
 - Cloud Eco-systems - https://github.com/kukuu/cloud-eco-systems
