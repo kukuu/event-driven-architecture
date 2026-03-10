@@ -37,6 +37,10 @@ Event-driven architecture enables:
 - Multiple Avalability Zones
 - Scalability
 
+## Software Integration Tasks:
+
+https://github.com/kukuu/integration/blob/main/README.md
+
 ## Microservice
 
 - Implementation: https://github.com/kukuu/integration/blob/main/1-microservice-architecture.png
