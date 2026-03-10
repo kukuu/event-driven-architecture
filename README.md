@@ -2,7 +2,7 @@
 
 **Event-driven architecture (EDA)** is a software design pattern where services communicate by producing, detecting, consuming, and reacting to events—significant changes in state or occurrences asynchronously, enabling loose coupling, scalability, and real-time responsiveness.
 
-## Types of Architecture :**
+## Types of Architecture :
 
 - **Apache Kafka**
 - **RabbitMQ**,
@@ -13,7 +13,7 @@
 - **ActiveMQ**
 - **NATS**,
 - **Redis Pub/Sub**
-- **AWS Kinesis**, as well as
+- **AWS Kinesis**
 
 ## Event-driven frameworks: 
 - **Spring Cloud Stream**
