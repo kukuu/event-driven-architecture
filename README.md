@@ -225,6 +225,11 @@ _High-Level Overview:_
 - Develop a prioritized roadmap, balancing technical improvements and business needs.
 Demonstrate ROI by showing how debt reduction improves key metrics (e.g., latency, scalability).
 
+
+## AI, ML, LLM / NLP Integration
+
+https://github.com/kukuu/AI-ML-LLM-NLP-integration
+
 ## Systems
 - Systems Design - https://github.com/kukuu/systems-design
 - Cloud Eco-systems - https://github.com/kukuu/cloud-eco-systems
