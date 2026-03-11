@@ -18,7 +18,7 @@
 ## Event-driven frameworks: 
 - Spring Cloud Stream
 - Akka
-- Vert.x*
+- Vert.x
 
 **Benefits**:
 
